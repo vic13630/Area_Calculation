@@ -1,6 +1,6 @@
 /** * 計算長方形面積 */
 
-//% weight=0 color=##00FF00 icon="\uf1fe" block="Area_Calculation"
+//% weight=0 color=#47FF33 icon="\uf1fe" block="Area_Calculation"
 
 namespace Area_Calculation
 {

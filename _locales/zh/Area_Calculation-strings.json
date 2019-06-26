@@ -1,5 +1,5 @@
 {
-    "Area_Calculation|block": "工具",
+    "Area_Calculation|block": "面積計算",
     "Area_Calculation.ReturnArea|block": "回傳面積值 長 %length | 寬 %width",
     "Area_Calculation.ShowArea|block": "顯示面積值 長 %length|寬 %width"
 }
