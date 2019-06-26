@@ -1,4 +1,4 @@
-//% weight=0 color=#47FF33 icon="\uf1fe"
+//% weight=0 color=#47FF33 icon="\uf1fe" block="Area_Calculation"
 namespace Area_Calculation
 {
 
