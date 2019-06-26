@@ -1,4 +1,4 @@
-//% weight=0 color=#47FF33 icon="\uf1fe" block="Area Calculation"
+//% weight=0 color=#47FF33 icon="\uf1fe" block="Area_Calculation"
 namespace Area_Calculation
 {
 
@@ -13,11 +13,11 @@ export function ReturnArea(length: number, width: number) : number {
 
 /** 
  * 計算長方形面積 & 不回傳 
- */
+
 //% blockId="ShowArea" block="Show Area length %length | width %width"
 //% blockGap=2 weight=1
 export function ShowArea(length: number, width: number) : void {
 	basic.showNumber(length*width)
 }
-
+ */
 }
