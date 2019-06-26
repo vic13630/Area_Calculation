@@ -1,4 +1,4 @@
 {
-    "Area_Calculation.ReturnAreaOfRectangle|block": "回傳長方形面積 = 長 %length | * | 寬 %width",
-	"Area_Calculation.ReturnAreaOfTriangle|block": "回傳三角形面積 = 底 %bottom | * | 高 %high | /2"
+    "Area_Calculation.ReturnAreaOfRectangle|block": "回傳長方形面積 = 長 %length | x  寬 %width",
+	"Area_Calculation.ReturnAreaOfTriangle|block": "回傳三角形面積 = 底 %bottom | x  高 %high | /2"
 }
