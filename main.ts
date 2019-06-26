@@ -20,6 +20,4 @@ export function ReturnAreaOfTriangle(bottom: number, high: number) : number {
 	return bottom*high/2
 }
 
-
-
 }
