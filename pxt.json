@@ -1,0 +1,17 @@
+{
+    "name": "Area_Calculation",
+    "version": "0.0.1",
+    "description": "計算面積測試用Micro:bit積木",
+    "license": "MIT",
+    "dependencies":
+	{
+		"core": "*"
+    },
+    "files":
+	[
+        "README.md",
+        "main.ts",
+        "_locales/zh/Area_Calculation-strings.json"
+    ],
+    "public": true
+}
