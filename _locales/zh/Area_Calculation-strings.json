@@ -1,5 +1,7 @@
 {
     "Area_Calculation|block": "面積計算",
-    "Area_Calculation.ReturnArea|block": "回傳面積值 長 %length | 寬 %width",
-
+    "Area_Calculation.ReturnAreaOfRectangle|block": "回傳長方形面積 : 長 %length | 寬 %width",
+	"Area_Calculation.ReturnAreaOfTriangle|block": "回傳三角形面積 : 底 %bottom | 高 %high | /2",
+	
+	
 }
